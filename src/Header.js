@@ -12,7 +12,7 @@ function Header(props) {
       </IconButton>
       <img
         className="header__logo"
-        src="http://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png"
+        src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png"
         alt=""
       />
       <IconButton>
